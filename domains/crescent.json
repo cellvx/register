@@ -1,0 +1,9 @@
+{
+  "crescent": {
+    "A": ["216.198.79.193"],
+    "TXT": ["_vercel=vc-domain-verify=crescent.is-a.dev,4e4779e7e4a4cad5f052"],
+    "owner": {
+      "github": "cellvx"
+    }
+  }
+}
